@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our campuzanol slide!"
 ---
-Your text
+this is my awesome slide
 Use the left arrow to go back!
